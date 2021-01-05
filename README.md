@@ -1,6 +1,6 @@
 # Image classification with the Azure Custom Vision Prediction API
 
-[Azure Custom Vision](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/home?WT.mc_id=customvisionclassification-github-beverst) (part of Cognitive Services) enables easy training of image classification machine learning models.
+[Azure Custom Vision](https://docs.microsoft.com/azure/cognitive-services/custom-vision-service/home?WT.mc_id=academic-0000-beverst) (part of Cognitive Services) enables easy training of image classification machine learning models.
 
 
 This repo contains a Flask web application which does the following:
